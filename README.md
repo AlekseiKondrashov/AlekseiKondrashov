@@ -1,4 +1,4 @@
-<!-- By https://github.com/feeeek -->
+<!-- By https://github.com/ifxser -->
 
 ## IFxSeR
 ![Fumo_Fumo_Plush_Series_-_Cirno_says_Hi](https://user-images.githubusercontent.com/26704473/134087747-34034899-ab76-456a-b2a0-951fae813412.gif)
